@@ -1,2 +1,1 @@
-#add any project dependencies here
-django>=3.2
+# django_cityloc_pkg_BenjaminMcMahan
